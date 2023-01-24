@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeathofaSellout
 - 👀 I’m interested in composing music, full stack web development, and traveling.
-- 🌱 I’m currently learning advanced algorithms, python, and system design.
+- 🌱 I’m currently learning advanced algorithms, React, and system design.
 - 💞️ I’m looking to collaborate on full stack web apps that are unique, inclusive, and extensive. 
 - 📫 How to reach me : javascriptforlife@gmail.com or deathofasellout.github.io
 
