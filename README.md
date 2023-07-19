@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeathofaSellout
-- 👀 I’m interested in composing music, full stack web development, and traveling.
-- 🌱 I’m currently learning advanced algorithms, React, and system design.
-- 💞️ I’m looking to collaborate on full stack web apps that are unique, inclusive, and extensive. 
+- 👀 I’m interested in composing music, full stack web development, and Cyber Security.
+- 🌱 I’m currently earning my Undergrad Cert in Cyber Security from SANS.
+- 💞️ I’m looking to learn more about being a SOC Analyst and Pen Testing.
 - 📫 How to reach me : javascriptforlife@gmail.com or deathofasellout.github.io
 
 <!---
